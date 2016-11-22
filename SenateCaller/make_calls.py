@@ -18,7 +18,7 @@ auth_token = "token"
 client = TwilioRestClient(account_sid, auth_token)
 
 for number in nums:
-    # Make the call
+    # Make the call and replace your twilio number, as well as URL pointing to your TwiML message file
     call = client.calls.create(to=number,from_="your_twilio_number", url="https://handler.twilio.com/twiml/EH146e298181dcc2666f3729fc61e497b4")
     print(call.sid)
     time.sleep(3)
