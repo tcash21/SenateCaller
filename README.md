@@ -10,4 +10,4 @@
 I'm happy to help anyone set this up on their own machine if you need additional help. Please help your non-technical friends if you can as well!
 
 # LEGAL
-You should identify yourself on the call and provide a callback number for them to opt-out. Also be careful with the volume of the calls made.
+Use at your own risk. You should identify yourself on the call and provide a callback number for them to opt-out. Also be careful with the volume of the calls made.
